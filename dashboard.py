@@ -77,6 +77,21 @@ st.markdown(
         color: #666;
     }
 
+    /* Hide Streamlit default menu */
+    #MainMenu {
+        visibility: hidden;
+    }
+
+    /* Hide Streamlit header */
+    header[data-testid="stHeader"] {
+        visibility: hidden;
+    }
+
+    /* Hide Streamlit footer */
+    footer {
+        visibility: hidden;
+    }
+
     </style>
     """,
     unsafe_allow_html=True
