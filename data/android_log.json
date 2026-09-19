@@ -1,0 +1,22 @@
+{
+  "device": {
+    "imei": "356789101234567",
+    "imsi": "404450123456789",
+    "mac": "02:AB:45:CD:67:EF"
+  },
+  "applications": [
+    {
+      "package": "com.example.remotehelper",
+      "version": "2.1.4",
+      "source": "unknown"
+    },
+    {
+      "package": "com.example.quickshare",
+      "version": "1.8.2",
+      "source": "sideloaded"
+    }
+  ],
+  "network": {
+    "last_ip": "103.82.14.21"
+  }
+}

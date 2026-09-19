@@ -1,0 +1,17 @@
+From: support@secure-upi.example
+To: victim01@example.test
+Subject: Urgent UPI Account Verification
+Date: Thu, 18 Sep 2026 08:58:20 +0530
+Message-ID: <case20260918-001@example.test>
+Received: from suspicious-mail.example (103.82.14.21)
+ by mail.example.test;
+Thu, 18 Sep 2026 08:58:20 +0530
+
+Dear Customer,
+
+Your UPI account requires immediate verification.
+
+Please complete the verification process immediately.
+
+Regards,
+UPI Support Team

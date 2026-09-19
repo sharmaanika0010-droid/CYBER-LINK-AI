@@ -1,0 +1,6 @@
+pandas
+openpyxl
+networkx
+pyvis
+streamlit
+reportlab

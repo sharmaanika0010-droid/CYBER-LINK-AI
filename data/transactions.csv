@@ -1,0 +1,8 @@
+timestamp,transaction_id,sender_account,receiver_account,sender_upi,receiver_upi,amount
+2026-09-18 09:00:12,TXN001,VIC001,MULE001,victim01@upi,mulealpha@upi,25000
+2026-09-18 09:03:45,TXN002,VIC002,MULE001,victim02@upi,mulealpha@upi,18000
+2026-09-18 09:10:21,TXN003,MULE001,MULE002,mulealpha@upi,mulebeta@upi,22000
+2026-09-18 09:12:04,TXN004,MULE002,CASH001,mulebeta@upi,cashout01@upi,19000
+2026-09-18 09:14:30,TXN005,VIC003,MULE001,victim03@upi,mulealpha@upi,12000
+2026-09-18 09:17:10,TXN006,MULE001,MULE003,mulealpha@upi,mulegamma@upi,11000
+2026-09-18 09:20:55,TXN007,MULE003,CASH002,mulegamma@upi,cashout02@upi,9500
